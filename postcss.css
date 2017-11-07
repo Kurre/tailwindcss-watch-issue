@@ -1,0 +1,8 @@
+/**
+ * Components
+ */
+@import "component.css";
+
+.site-class {
+    background: #111;
+}
